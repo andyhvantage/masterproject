@@ -1,1 +1,1 @@
-include ':masterProject'
+include ':masterProject', ':mslibrary'

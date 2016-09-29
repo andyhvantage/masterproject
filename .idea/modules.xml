@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MasterProject.iml" filepath="$PROJECT_DIR$/MasterProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/masterProject/app.iml" filepath="$PROJECT_DIR$/masterProject/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/masterProject/masterProject.iml" filepath="$PROJECT_DIR$/masterProject/masterProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mslibrary/mslibrary.iml" filepath="$PROJECT_DIR$/mslibrary/mslibrary.iml" />
     </modules>
   </component>
 </project>

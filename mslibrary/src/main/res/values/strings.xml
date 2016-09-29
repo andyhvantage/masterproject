@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MSLibrary</string>
+    <string name="error_check_internet_connection">Please Check the internet Connection</string>
+</resources>
